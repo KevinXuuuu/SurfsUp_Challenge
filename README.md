@@ -5,6 +5,7 @@ The purpose of this analysis is to obtain more infomation about temperature tren
 Specifically, client wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 Results:
+
 June Temperature:
 
 ![image](https://user-images.githubusercontent.com/109333158/204170813-f6923bf7-2537-43e6-ab7e-ec91daa9de04.png)
@@ -13,8 +14,11 @@ December Temperature:
 
 ![image](https://user-images.githubusercontent.com/109333158/204170859-6a63d30f-d4e3-4d0f-911a-fc4e5bfa2f3a.png)
 
+1.
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+2.
+
+3.
 
 Summary:
 
