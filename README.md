@@ -1,4 +1,4 @@
-# SurfsUp_Challenge
+# SurfsUp Challenge
 
 Overview of the statistical analysis:
 
