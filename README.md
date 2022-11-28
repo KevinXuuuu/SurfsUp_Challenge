@@ -23,4 +23,4 @@ Specifically, client wants temperature data for the months of June and December 
 3. Yet, Dcember's minimum temperature(56 Fahrenheit) is much lower than June 's minimum temerature(65 Fahrenheit). 
 
 ## Summary:
-In conclusion, both June and December temperature is sustainable for oepening the surf and ice cream shop business.
+In conclusion, since average temperature is only 3 degree off from June and December, both months is sustainable for opening the surf and ice cream shop business.
