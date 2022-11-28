@@ -14,12 +14,13 @@ Specifically, client wants temperature data for the months of June and December 
 
 ![image](https://user-images.githubusercontent.com/109333158/204170859-6a63d30f-d4e3-4d0f-911a-fc4e5bfa2f3a.png)
 
-1.
+### In comparing June and December's summary Statstics above, we found the following difference betwwen them:
 
-2.
+1. December's average(mean) temperature is lower than the June's average(mean) temperature.
 
-3.
+2. June 's maximum temerature could go up to 85 Fahrenheit, but December's aximum temerature could go up to 83 Fahrenheit as well.
+
+3. Yet, Dcember's minimum temperature(56 Fahrenheit) is much lower than June 's minimum temerature(65 Fahrenheit). 
 
 ## Summary:
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+In conclusion, both June and December temperature is sustainable for oepening the surf and ice cream shop business.
